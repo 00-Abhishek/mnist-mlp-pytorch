@@ -1,0 +1,1 @@
+"""MNIST MLP training package."""
